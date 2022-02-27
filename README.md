@@ -10,15 +10,24 @@ SECOND ITERATION:
 
 **Changes between first assignment and second assignment:**
 
+
 -Removed text from back buttons and added arrows intsead
+
 -Removed ability to loop through screens (Assignment List -> Chat List -> Chat -> Back to Assignment List) for clarity
+
 -Removed entire chat list screen (Chats can be found under corresponding courses.  Changed from previous iteration where courses could also be found under corresponding chats, very confusing)
+
 
 
 **New Features:**
 
+
 -Course announcements (Or some form of communication between teacher and students)
+
 -Private messaging (Only 1 group chat per course available right now, no individual messaging)
+
 -Login & Signup Page (Would allow multiple students to use same device for their classes)
+
 -Calendar view of assignment deadlines for all classes
+
 -Notifications for close deadlines of unsubmitted assignments
